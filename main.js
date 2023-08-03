@@ -31,3 +31,4 @@ function exibirMensagemErro(mensagem) {
     var resultadoDiv = document.getElementById("resultado");
     resultadoDiv.innerHTML = `<p class="erro">${mensagem}</p>`;
 }
+//1
